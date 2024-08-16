@@ -1,6 +1,6 @@
 #
 #   Basic integer parser
-#   Copyright (C) 2024 Democritan University of Thrace
+#   Copyright (C) 2024 Democritus University of Thrace
 #   Licensed under GPLv2
 #
 
