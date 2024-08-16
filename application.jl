@@ -1,0 +1,18 @@
+#
+#   Basic integer parser
+#   Copyright (C) 2024 Democritan University of Thrace
+#   Licensed under GPLv2
+#
+
+
+print("My First Actual Julia Program\n");
+
+x = parse(Int,readline());
+
+if x > 0
+    print("Positive number $x was given");
+else
+    (x == 0) ? print("Number zero was given") : print("Negative number $x was given");
+end
+
+print("\n");
